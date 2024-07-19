@@ -1,0 +1,74 @@
+{
+  "commands": [
+    {
+      "name": "test",
+      "file": "test.js",
+      "description": "This is a test command"
+    },
+    {
+      "name": "help",
+      "file": "help.js",
+      "description": "This is a help command"
+    },
+    {
+      "name": "ls",
+      "file": "ls.js",
+      "description": "This command list all the files in the current directory"
+    },
+    {
+      "name": "clear",
+      "file": "clear.js",
+      "description": "This command clears the terminal"
+    },
+    {
+      "name": "cat",
+      "file": "cat.js",
+      "description": "This command displays the content of a file"
+    },
+    {
+      "name": "cd",
+      "file": "cd.js",
+      "description": "This command changes the current directory"
+    },
+    {
+      "name": "touch",
+      "file": "touch.js",
+      "description": "This command creates a new file"
+    },
+    {
+      "name": "mkdir",
+      "file": "mkdir.js",
+      "description": "This command creates a new directory"
+    },
+    {
+      "name": "rm",
+      "file": "rm.js",
+      "description": "This command removes a file or directory"
+    },
+    {
+      "name": "github",
+      "file": "github.js",
+      "description": "This command opens my github profile"
+    },
+    {
+      "name": "pwd",
+      "file": "pwd.js",
+      "description": "This command displays the current directory"
+    },
+    {
+      "name": "node",
+      "file": "node.js",
+      "description": "This command runs a node.js script"
+    },
+    {
+      "name": "about",
+      "file": "about.js",
+      "description": "This command displays information about me"
+    },
+    {
+      "name": "skills",
+      "file": "skills.js",
+      "description": "This command displays my skills"
+    }
+  ]
+}

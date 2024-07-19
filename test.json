@@ -1,0 +1,31 @@
+{
+  "files": [
+    {
+      "name": "Linux",
+      "type": "directory",
+      "content": [
+        {
+          "name": "home",
+          "type": "directory",
+          "content": [
+            {
+              "name": "WinckeThéo",
+              "type": "directory",
+              "content": [
+                [
+                  {
+                    "name": "ReadMe.txt",
+                    "type": "file",
+                    "content": "This is a ReadMe file"
+                  },
+                  { "name": "test", "type": "directory", "content": [] },
+                  { "name": "bipbip", "type": "file", "content": "bipbip" }
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "name": "Linux",
+      "type": "directory",
+      "content": [
+        {
+          "name": "home",
+          "type": "directory",
+          "content": [
+            {
+              "name": "WinckeThéo",
+              "type": "directory",
+              "content": [
+                {
+                  "name": "ReadMe.txt",
+                  "type": "file",
+                  "content": "Hello for more inforamtion go to my website <a href='https://github.com/sawmodz'> here </a>"
+                },
+                {
+                  "name": "test",
+                  "type": "directory",
+                  "content": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

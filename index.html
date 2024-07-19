@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/reset.css" />
+    <link rel="stylesheet" href="styles/var.css" />
+    <link rel="stylesheet" href="styles/main.css" />
+    <title>Blizz</title>
+  </head>
+  <body>
+    <div class="terminal" id="terminal">
+      <header>
+        <div class="button-container">
+          <div class="button btn-red"></div>
+          <div class="button btn-yellow"></div>
+          <div class="button btn-green" id="fullscreen"></div>
+        </div>
+        <div>Wincke Théo</div>
+        <div></div>
+      </header>
+      <div class="content">
+        <div id="terminal_content"></div>
+        <div class="input-container">
+          <span class="prompt" id="terminal_prompt">Wincke Théo@Blizz:~$</span>
+          <input
+            type="text"
+            id="terminal_input"
+            class="input"
+            autocomplete="off"
+            autofocus
+          />
+        </div>
+      </div>
+      <footer>
+        <a
+          href="https://github.com/sawmodz"
+          class="invisible-link"
+          target="_blank"
+          >© 2024 Wincke Théo.</a
+        >
+      </footer>
+    </div>
+
+    <script src="javascripts/main.js" type="module"></script>
+  </body>
+</html>
